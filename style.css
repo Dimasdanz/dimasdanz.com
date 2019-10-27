@@ -1,0 +1,42 @@
+/*!
+ * https://dimasdanz.com/pay
+ * Do I need a copy-right?
+ */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+.name {
+  display: inline;
+  white-space: nowrap;
+}
+
+h4 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+h4 span {
+  display: inline-block;
+  white-space: nowrap;
+  font-weight: normal;
+  font-style: italic;
+  text-decoration: line-through;
+  font-size: 0.75rem;
+}
+
+a {
+  color: #0056AD;
+}
+
+.contact {
+  margin-bottom: 0.25rem;
+}
